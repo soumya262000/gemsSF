@@ -1,1 +1,2 @@
 Hello world
+Change for bug 1
